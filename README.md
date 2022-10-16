@@ -21,6 +21,7 @@
 ## :rocket: Tecnologias
 <ul>
   <li>Expo</li>
+  <li>Components</li>
   <li>Routes</li>
   <li>react-navigation</li>
   <li>react-navigation-tabs</li>
