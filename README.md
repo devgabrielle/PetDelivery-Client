@@ -41,3 +41,65 @@
 </ul>
 
 <br><br>
+<br>
+
+## :mega: Segue abaixo as principais interfaces:
+
+<br><br>
+<br>
+
+## 1 src/Pages/Home/index.js
+### 1.1 Interface inicial (Home)
+
+<br>
+
+<div align="center">
+  
+![Sugestões](https://user-images.githubusercontent.com/55507831/196058388-c562b589-3b76-4a1a-9e6c-6187f42003cd.png)
+
+</div>
+
+<br><br><br><br>
+
+## 2 src/Pages/Search/index.js
+### 2.1 Interface de Busca (Search)
+
+<br>
+
+<div align="center">
+
+![Search](https://user-images.githubusercontent.com/55507831/198345406-cf90161e-90ad-471a-8ea7-aa7d87ee8035.png)
+
+</div>
+
+<br><br><br><br>
+
+## 3 Interface de Pedidos
+### 3.1 Interface de Pedidos anteriores
+#### 3.1.1 src/Pages/PreviousRequests/index.js
+#### 3.1.2 src/Components/Purchases/index.js
+
+<br>
+
+![Purchased](https://user-images.githubusercontent.com/55507831/198345412-a4804c6a-c839-43ec-b55f-a44a3fbbce6e.png)
+
+<br><br><br><br>
+
+## 3.2 Interface de Pedidos em andamento
+### 3.2.1 src/Pages/NoOrder/index.js
+
+<br>
+
+![NoOrder](https://user-images.githubusercontent.com/55507831/198345413-73ccabe7-078e-4123-bf19-d8d10f16a9de.png)
+
+<br><br><br><br><br><br>
+
+## 4 Interface de Perfil
+### 4.1 src/pages/Profile/index.js
+
+<br>
+
+![Profile](https://user-images.githubusercontent.com/55507831/198345414-ec89779b-fe6e-4875-bde8-84bfa9195308.png)
+
+<br><br><br>
+
