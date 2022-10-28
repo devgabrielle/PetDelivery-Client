@@ -12,7 +12,7 @@
 
 <div align="center">
   
-![Sugestões](https://user-images.githubusercontent.com/55507831/196058388-c562b589-3b76-4a1a-9e6c-6187f42003cd.png)
+![logo](https://user-images.githubusercontent.com/55507831/198498722-a271e3fe-e81d-4507-9eb9-3cf01b275abe.png)
   
 </div>
 
@@ -48,8 +48,24 @@
 <br><br>
 <br>
 
-## 1 src/Pages/Home/index.js
-### 1.1 Interface inicial (Home)
+## Interface de Autenticação (SignIn, ForgotPassword e CreateAccount)
+#### src/Pages/SignIn/index.js
+#### src/Pages/ForgotPassword/index.js
+#### src/Pages/CreateAccount/index.js
+
+<br>
+
+<div align="center">
+  
+![Auth](https://user-images.githubusercontent.com/55507831/198498619-08b4125e-e17b-4374-9715-d8c7e12b5dd4.png)
+
+</div>
+
+<br><br><br><br>
+
+
+## 1.1 Interface inicial (Home)
+#### 1 src/Pages/Home/index.js
 
 <br>
 
@@ -61,8 +77,8 @@
 
 <br><br><br><br>
 
-## 2 src/Pages/Search/index.js
-### 2.1 Interface de Busca (Search)
+## 2.1 Interface de Busca (Search)
+#### 2 src/Pages/Search/index.js
 
 <br>
 
@@ -86,7 +102,7 @@
 <br><br><br><br>
 
 ## 3.2 Interface de Pedidos em andamento
-### 3.2.1 src/Pages/NoOrder/index.js
+#### 3.2.1 src/Pages/NoOrder/index.js
 
 <br>
 
@@ -95,7 +111,7 @@
 <br><br><br><br><br><br>
 
 ## 4 Interface de Perfil
-### 4.1 src/pages/Profile/index.js
+#### 4.1 src/pages/Profile/index.js
 
 <br>
 
