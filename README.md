@@ -1,12 +1,18 @@
 <div align="center"> 
   
 # Projeto - Aplicação Pet Delivery - Cliente Mobile React Native
-  
+  ### "" Em Produção ""
 </div>
 
+<br>
 
-<h5> Aplicação Front-end desenvolvida em React Native com as principais interfaces do aplicativo Pet Delivery - Cliente, voltada para delivery de produtos animais e agendamentos em Petshop.
+<div align="center"> 
+<h5> Aplicação Front-end desenvolvida em React Native com as principais interfaces do aplicativo Pet Delivery - Cliente. 
+</h5><h5>
+Voltado para comercialização delivery de produtos animais e agendamentos em Petshop.
 </h5>
+
+</div>
 
 <br><br>
 
